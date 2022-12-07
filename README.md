@@ -1,2 +1,2 @@
 # test
-"><img/src=x/onerror=alert(3)>
+"><img/src=x"/onerror=alert(3)>
